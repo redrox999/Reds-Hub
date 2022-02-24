@@ -1,5 +1,6 @@
 if game.PlaceId == 171391948 then -- Vehicle Simulator
 loadstring(game:HttpGet('https://raw.githubusercontent.com/redrox999/RED-HUB/main/Vehicle%20Simulator'))()
-
+end
 if game.PlaceId == 286090429 then -- Arsenal
 loadstring(game:HttpGet('https://raw.githubusercontent.com/redrox999/RED-HUB/main/Arsenal'))()
+end
